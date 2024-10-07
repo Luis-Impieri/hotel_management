@@ -6,6 +6,8 @@
 - Dependências do projeto instaladas (`npm install`)
 - Extra: Ter a extensão Thunder Client instalada no VS Code ou outra parecida para fazer requisições ao back-end diretamente pelo programa
 
+Os arquivos do Next estão na branch "next" do projeto
+
 ## Como Executar o Projeto
 
  **Clone este repositório**:
